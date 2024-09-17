@@ -76,7 +76,7 @@ nav .right .menu a:hover{
 main{
     width: 100vw;
     height: 100vh;
-    background-image: url('./images/background.jpeg');
+    background-image: url('../images/background.jpeg');
     background-size: cover;
     display: flex;
     align-items: center;
