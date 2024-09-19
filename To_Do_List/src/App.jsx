@@ -90,7 +90,6 @@ function App() {
 
   return (
     <div className='min-h-screen bg-gray-900'>
-      {/* Navbar */}
       <nav className='h-[70px] py-2 px-4 sm:px-8 md:px-14 flex justify-between bg-indigo-500 items-center'>
         <div>
           <h2 className='text-lg sm:text-xl font-bold text-white cursor-pointer hover:text-violet-700 transition-colors duration-500'>
@@ -107,7 +106,6 @@ function App() {
         </div>
       </nav>
 
-      {/* Content */}
       <div className='p-4 sm:p-6 md:p-8'>
         <h2 className='text-lg sm:text-xl font-semibold text-white mb-2'>
           Add Todo
@@ -134,7 +132,6 @@ function App() {
         </div>
         <hr className='border-gray-500 mb-4' />
 
-        {/* Todo List */}
         <h2 className='text-lg sm:text-xl font-semibold text-white mb-2'>
           Todo List
         </h2>
